@@ -1,0 +1,10 @@
+jfcrypt is a CLI file encryption tool, using Tink and Argon2id. 
+
+build and install:
+```
+make
+sudo make install
+```
+
+
+
